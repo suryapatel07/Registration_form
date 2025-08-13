@@ -2,6 +2,9 @@
 
 A simple HTML registration form for collecting user details for the **IIT Kharagpur US Trip** event.
 
+Live Preview:https://suryapatel07.github.io/Registration_form/
+
+
 ## 📌 Features
 - Collects basic user details: **Name, Age, Gender, Email, Phone**.
 - Includes a **textarea** for additional information.
